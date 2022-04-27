@@ -16,6 +16,8 @@ public class ProyectoConflictos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Creado por Bienve");
+        System.out.println("Modificado por Bienve");
         String a= "a";
     }
    
