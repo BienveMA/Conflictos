@@ -10,5 +10,5 @@ package proyectoconflictos;
  * @author LARA MILLÁN TROYA
  */
 public class ClaseLara {
-    
+    String creado = "Clase creada por Lara";
 }
